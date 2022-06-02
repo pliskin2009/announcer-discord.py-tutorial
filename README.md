@@ -1,1 +1,1 @@
-# announcer-discord_tutorial
+# announcer-discord-tutorial
